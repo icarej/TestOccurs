@@ -1,0 +1,23 @@
+{
+  "name": "occurences",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testChaineNjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icarej/TestOccurs.git"
+  },
+  "keywords": [
+    "test",
+    "occurences"
+  ],
+  "author": "icare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icarej/TestOccurs/issues"
+  },
+  "homepage": "https://github.com/icarej/TestOccurs#readme"
+}
